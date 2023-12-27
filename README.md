@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a PhD candidate working on modeling invasive species spread in local environments. 
+My research interests are addressing the implementation gap, data to decision tools, vegetation management and fire and invasive plant interactions. 
+
 <!--
 **debitharp/debitharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
